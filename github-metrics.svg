@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="925" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1242" class="">
     <defs>
         <style/>
     </defs>
@@ -295,12 +295,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#28071 feat(nuget): allow detecting source URLs via package contents</span>
+                                        <span class="issue">#3467 [Frontend] Support complex message content for chat completions endpoint</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by fgreinacher in <span class="repo">renovatebot/renovate</span></div>
-                                    <div class="comment">@rarkins OK thanks, do you think this is worth to add to the development docs? I can start something, would need a lot of input though.</div>
+                                    <div>opened by fgreinacher in <span class="repo">vllm-project/vllm</span></div>
+                                    <div class="comment">Thanks @LiuXiaoxuanPKU, I have rebased the PR so this should be good to go 🙇</div>
                                 </div>
                             </section>
                         </div>
@@ -312,11 +312,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#28071 feat(nuget): allow detecting source URLs via package contents</span>
+                                        <span class="issue">#3467 [Frontend] Support complex message content for chat completions endpoint</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">renovatebot/renovate</span></div>
+                                    <div>opened  in <span class="repo">vllm-project/vllm</span></div>
                                 </div>
                             </section>
                         </div>
@@ -328,14 +328,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fgreinacher/renovate</span>
+                                        <span class="repo">fgreinacher/vllm</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/nuget-source-urls</span></div>
+                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
                                     <div class="commit">
-                                        <div class="sha">#565e867</div>
-                                        <div class="message">refactor: adapt log message</div>
+                                        <div class="sha">#a7d51e4</div>
+                                        <div class="message">feat: support complex message content for chat completions endpoint
+
+Co-authored-by: Lily Liu &lt;lilyliupku@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -347,15 +349,101 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fgreinacher/renovate</span>
+                                        Pushed 66 commits in
+                                        <span class="repo">fgreinacher/vllm</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/nuget-source-urls</span></div>
+                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36bcb74</div>
-                                        <div class="message">refactor: adapt log message</div>
+                                        <div class="sha">#c188ecb</div>
+                                        <div class="message">[Misc] Bump up transformers to v4.39.0 &amp; Remove StarCoder2Config (#3551)
+
+Co-authored-by: Roy &lt;jasonailu87@gmail.com&gt;
+Co-authored-by: Roger Meier &lt;r.meier@siemens.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8657323</div>
+                                        <div class="message">[Misc][Log] Add log for tokenizer length not equal to vocabulary size (#3500)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c07dd2</div>
+                                        <div class="message">[🚀 Ready to be merged] Added support for Jais models (#3183)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bbff9e</div>
+                                        <div class="message">Fix 1D query issue from `_prune_hidden_states` (#3539)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ebd02b</div>
+                                        <div class="message">[PREFIX CACHING FOLLOW UP] OrderedDict-based evictor (#3431)
+
+Co-authored-by: rsnm2 &lt;rshaw@neuralmagic.com&gt;
+Co-authored-by: Luka &lt;luka@paperspace&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#523e30e</div>
+                                        <div class="message">[BugFix] Hot fix in setup.py for neuron build (#3537)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1c0fc3</div>
+                                        <div class="message">Migrate `logits` computation and gather to `model_runner` (#3233)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e435de</div>
+                                        <div class="message">[1/n][Chunked Prefill] Refactor input query shapes (#3236)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#426ec4e</div>
+                                        <div class="message">[1/n] Triton sampling kernel (#3186)
+
+Co-authored-by: Roger Wang &lt;136131678+ywang96@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80e2548</div>
+                                        <div class="message">[Bugfix] Fix ROCm support in CMakeLists.txt (#3534)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba8ae1d</div>
+                                        <div class="message">Check for _is_cuda() in compute_num_jobs (#3481)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84eaa68</div>
+                                        <div class="message">Abort when nvcc command is not found in the PATH (#3527)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ee1449</div>
+                                        <div class="message">[Misc] Remove cache stream and cache events (#3461)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ad521d</div>
+                                        <div class="message">[Core] Add generic typing to `LRUCache` (#3511)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9474e89</div>
+                                        <div class="message">[PREFIX CACHING FOLLOW UP] A bunch of fixes to block allocator performance when automatic prefix caching is disabled (#3357)
+
+Co-authored-by: Zhuohan Li &lt;zhuohan123@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20478c4</div>
+                                        <div class="message">Use lru_cache for some environment detection utils (#3508)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63e8b28</div>
+                                        <div class="message">[Doc] minor fix of spelling in amd-installation.rst (#3506)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc63d03</div>
+                                        <div class="message">Revert "[Core] Cache some utils" (#3507)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a60c9b</div>
+                                        <div class="message">[Doc] minor fix to neuron-installation.rst (#3505)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c614cfe</div>
+                                        <div class="message">Update dockerfile with ModelScope support (#3429)</div>
                                     </div>
                                 </div>
                             </section>
@@ -373,7 +461,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by fgreinacher in <span class="repo">renovatebot/renovate</span></div>
-                                    <div class="comment">I checked the code base again and the approach is a bit inconsistent. I will adapt this line as suggested, but maybe we want to discuss the desired direction and document it in https://github.com/renovatebot/renovate/tree/main/docs/development?</div>
+                                    <div class="comment">@rarkins OK thanks, do you think this is worth to add to the development docs? I can start something, would need a lot of input though.</div>
                                 </div>
                             </section>
                         </div>
@@ -382,7 +470,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2024, 07:14:06 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2024, 08:10:22 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
