@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="869" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1559" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            50 Pull requests reviewed
+                            51 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1370 issue comments
+                            1371 issue comments
                         </div>
                     </section>
                     <section>
@@ -290,15 +290,227 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 59 commits in
                                         <span class="repo">fgreinacher/vllm</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/complex-message-content</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f636f1a</div>
-                                        <div class="message">Merge branch 'main' into feat/complex-message-content</div>
+                                        <div class="sha">#a532225</div>
+                                        <div class="message">[Kernel] Add punica dimension for Swallow-MS-7B LoRA (#4134)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe3b5bb</div>
+                                        <div class="message">[Bugfix] fix output parsing error for trtllm backend (#4137)
+
+Co-authored-by: Roger Wang &lt;ywang@roblox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8438e05</div>
+                                        <div class="message">[Core] RayWorkerVllm --&gt; WorkerWrapper to reduce duplication (#4024)
+
+[Core] replace narrow-usage RayWorkerVllm to general WorkerWrapper to reduce code duplication (#4024)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11d652b</div>
+                                        <div class="message">[CI] Move CPU/AMD tests to after wait (#4123)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d150e4f</div>
+                                        <div class="message">[Misc] [CI] Fix CI failure caught after merge (#4126)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e95cd87</div>
+                                        <div class="message">[Speculative decoding 6/9] Integrate speculative decoding with LLMEngine  (#3894)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69e1d2f</div>
+                                        <div class="message">[Core] Refactor model loading code (#4097)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0543476</div>
+                                        <div class="message">LM Format Enforcer Guided Decoding Support (#3868)
+
+Co-authored-by: Simon Mo &lt;simon.mo@hey.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e7ee66</div>
+                                        <div class="message">[Core] Fix engine-use-ray broken  (#4105)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37e84a4</div>
+                                        <div class="message">[Typing] Fix Sequence type GenericAlias only available after Python 3.9. (#4092)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4695397</div>
+                                        <div class="message">[Bugfix] Fix ray workers profiling with nsight  (#4095)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d619ae2</div>
+                                        <div class="message">[Doc] Add better clarity for tensorizer usage (#4090)
+
+Co-authored-by: Roger Wang &lt;136131678+ywang96@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb46fbf</div>
+                                        <div class="message">[Core] Simplifications to executor classes (#4071)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0003e91</div>
+                                        <div class="message">[Misc][Minor] Fix CPU block num log in CPUExecutor. (#4088)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e11e200</div>
+                                        <div class="message">[Bugfix] Fix filelock version requirement (#4075)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8db1bf3</div>
+                                        <div class="message">[Misc] Upgrade triton to 2.2.0 (#4061)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aceb17c</div>
+                                        <div class="message">[Docs] document that mixtral 8x22b is supported (#4073)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#563c54f</div>
+                                        <div class="message">[BugFix] Fix tensorizer extra in setup.py (#4072)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cd6b4f</div>
+                                        <div class="message">[Core] avoid too many cuda context by caching p2p test (#4021)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#711a000</div>
+                                        <div class="message">[Frontend] [Core] feat: Add model loading using `tensorizer` (#3476)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#24567 Support GitLab CI templates</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by rarkins in <span class="repo">renovatebot/renovate</span></div>
+                                    <div class="comment">
+                                        <i>that's not enough, it will still fail to parse multi yaml docs</i>
+                                        Multi-document YAML support has been added to the
+                                        <code>gitlabci</code>
+                                        manager with https://github.com/renovatebot/renovate/pull/28521.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 44 commits in
+                                        <span class="repo">fgreinacher/vllm</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#70db8a5</div>
+                                        <div class="message">[Bugfix] fix output parsing error for trtllm backend (#4137)
+
+Co-authored-by: Roger Wang &lt;ywang@roblox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a996ac</div>
+                                        <div class="message">[Core] RayWorkerVllm --&gt; WorkerWrapper to reduce duplication (#4024)
+
+[Core] replace narrow-usage RayWorkerVllm to general WorkerWrapper to reduce code duplication (#4024)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbe502c</div>
+                                        <div class="message">[CI] Move CPU/AMD tests to after wait (#4123)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83184ef</div>
+                                        <div class="message">[Misc] [CI] Fix CI failure caught after merge (#4126)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13c669a</div>
+                                        <div class="message">[Speculative decoding 6/9] Integrate speculative decoding with LLMEngine  (#3894)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cff047d</div>
+                                        <div class="message">[Core] Refactor model loading code (#4097)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04a63e1</div>
+                                        <div class="message">LM Format Enforcer Guided Decoding Support (#3868)
+
+Co-authored-by: Simon Mo &lt;simon.mo@hey.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#831a7f0</div>
+                                        <div class="message">[Core] Fix engine-use-ray broken  (#4105)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7540d25</div>
+                                        <div class="message">[Typing] Fix Sequence type GenericAlias only available after Python 3.9. (#4092)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3185ade</div>
+                                        <div class="message">[Bugfix] Fix ray workers profiling with nsight  (#4095)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed83602</div>
+                                        <div class="message">[Doc] Add better clarity for tensorizer usage (#4090)
+
+Co-authored-by: Roger Wang &lt;136131678+ywang96@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63186d4</div>
+                                        <div class="message">[Core] Simplifications to executor classes (#4071)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7ec0fa</div>
+                                        <div class="message">[Misc][Minor] Fix CPU block num log in CPUExecutor. (#4088)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcdaf7b</div>
+                                        <div class="message">[Bugfix] Fix filelock version requirement (#4075)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f2fc75</div>
+                                        <div class="message">[Misc] Upgrade triton to 2.2.0 (#4061)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb68887</div>
+                                        <div class="message">[Docs] document that mixtral 8x22b is supported (#4073)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b312d8</div>
+                                        <div class="message">[BugFix] Fix tensorizer extra in setup.py (#4072)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e9349a</div>
+                                        <div class="message">[Core] avoid too many cuda context by caching p2p test (#4021)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bf5a68</div>
+                                        <div class="message">[Frontend] [Core] feat: Add model loading using `tensorizer` (#3476)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2544db5</div>
+                                        <div class="message">feat: support complex message content for chat completions endpoint
+
+Co-authored-by: Lily Liu &lt;lilyliupku@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -316,7 +528,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by fgreinacher in <span class="repo">vllm-project/vllm</span></div>
-                                    <div class="comment">OK, I have moved the flattening to a dedicated method. Let me know what you think @simon-mo 🙇</div>
+                                    <div class="comment">I decided to keep this here so that we can benefit from Pydantic convenience.</div>
                                 </div>
                             </section>
                         </div>
@@ -336,47 +548,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">continuedev/amplified.dev</span>
-                                        to
-                                        <span class="repo">fgreinacher/amplified.dev</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fgreinacher/vllm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#be117f2</div>
-                                        <div class="message">Merge branch 'main' into feat/complex-message-content</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2024, 08:14:44 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 09:10:34 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
