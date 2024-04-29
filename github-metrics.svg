@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1203" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.keyword{color:#b44418}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -291,6 +291,170 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">semantic-release/gitlab</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/no-import-assertion</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b88a0e4</div>
+                                        <div class="message">fix: get rid of import assertion</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 527 commits in
+                                        <span class="repo">semantic-release/gitlab</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/no-import-assertion</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cdaed22</div>
+                                        <div class="message">fix(package): update semantic-release peerDependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b87e77d</div>
+                                        <div class="message">feat: add `details` to error messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c93de94</div>
+                                        <div class="message">feat: return all errors
+
+Allow to report to the user multiple config/auth errors at once</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#750c469</div>
+                                        <div class="message">feat: return release informations from `publish` hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d58364</div>
+                                        <div class="message">refactor: pass full semantic-release context to hooks implementation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9211f6</div>
+                                        <div class="message">fix(package): add semantic-release as a peerDependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a40316d</div>
+                                        <div class="message">build(release): release new version on next dist-tag</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d5fd47</div>
+                                        <div class="message">fix(package): update node requirement to 8.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca17c6</div>
+                                        <div class="message">fix(publish): fix publishing request
+
+- Change HTTP verb from PUT to POST.
+- Remove `ref` and change `release_description` to `description` in body of request.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cf0a55</div>
+                                        <div class="message">fix(package): update url-join to version 4.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#111e894</div>
+                                        <div class="message">feat: do not create Git tag anymore
+
+BREAKING CHANGE: The Git tag is not created anymore
+
+The Git tag must be created by `semantic-release`. The plugin is compatible only with `semantic-release@13.0.0` or above.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96d76d3</div>
+                                        <div class="message">chore(package): update ava to version 0.25.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d87b4b</div>
+                                        <div class="message">fix: handle undefined API prefix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4d18d6</div>
+                                        <div class="message">fix(package): update url-join to version 3.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c573b2f</div>
+                                        <div class="message">ci: use Build Stages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9418dc3</div>
+                                        <div class="message">chore(package): update semantic-release to version 12.2.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c7d832</div>
+                                        <div class="message">chore(package): update prettier to version 1.10.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d716f8</div>
+                                        <div class="message">fix: support repositories within subgroups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba75444</div>
+                                        <div class="message">feat: initial release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7378d8f</div>
+                                        <div class="message">Initial commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">fix/no-import-assertion</span>
+                                        in
+                                        <span class="repo">semantic-release/gitlab</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">fgreinacher/vllm</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2398646</div>
+                                        <div class="message">feat: support complex message content for chat completions endpoint
+
+Co-authored-by: Lily Liu &lt;lilyliupku@gmail.com&gt;
+Co-authored-by: Cyrus Leung &lt;tlleungac@connect.ust.hk&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -319,234 +483,12 @@ I'll put this MR back to Draft and will refactor once #4355 is merged.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fgreinacher/vllm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#068b2a7</div>
-                                        <div class="message">feat: support complex message content for chat completions endpoint
-
-Co-authored-by: Lily Liu &lt;lilyliupku@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#705 Replaced usage of assert keyword with "with" keyword to support node version 22.0.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by aldenbe in <span class="repo">semantic-release/gitlab</span></div>
-                                    <div class="comment">
-                                        Looks we need to bump our minimum supported Node version to 20.10.0 https://github.com/nodejs/node/pull/50682 because the
-                                        <code>with</code>
-                                        keyword support was only introduced in https://github.com/nodejs/node/pull/50140.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 54 commits in
-                                        <span class="repo">fgreinacher/vllm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/complex-message-content</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#96e90fd</div>
-                                        <div class="message">[Model] Adds Phi-3 support (#4298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a395a63</div>
-                                        <div class="message">[Misc] Use public API in benchmark_throughput (#4300)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2768884</div>
-                                        <div class="message">[Doc] Add note for docker user (#4340)
-
-Co-authored-by: Simon Mo &lt;simon.mo@hey.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aae0824</div>
-                                        <div class="message">[Bugfix] Fix marlin kernel crash on H100 (#4218)
-
-This PR addresses the Marlin kernel H100 crash that was reported here: neuralmagic#187.
-The reason for the crash was the inline PTX assembly that introduced the async_copy with streaming behavior. The solution is to use the more standard PTX for async_copy (without the fractional L2 policy for "evict_first"). There is no performance difference between standard async_copy PTX and the previous one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7923dca</div>
-                                        <div class="message">[Misc] Update ShareGPT Dataset Sampling in Serving Benchmark (#4279)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cd9b5b</div>
-                                        <div class="message">[Core][Distributed] use existing torch.cuda.device (#4318)
-
-[Core][Distributed] use existing torch.cuda.device context manager (#4318)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#468d761</div>
-                                        <div class="message">[Misc] Reduce supported Punica dtypes (#4304)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4bf860</div>
-                                        <div class="message">[CI][Build] change pynvml to nvidia-ml-py (#4302)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91f50a6</div>
-                                        <div class="message">[Core][Distributed] use cpu/gloo to initialize pynccl (#4248)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79a268c</div>
-                                        <div class="message">[BUG] fixed fp8 conflict with aqlm (#4307)
-
-Fixes fp8 iterface which broke in AQLM merge.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eace8bf</div>
-                                        <div class="message">[Kernel] FP8 support for MoE kernel / Mixtral (#4244)
-
-This PR is the first step towards fixing https://github.com/vllm-project/vllm/pull/3208
-
-It implements dynamic per-tensor scaling (see https://github.com/vllm-project/vllm/pull/4118), so users do not need to compute activation scales on a calibration dataset and they also don't need to convert their model checkpoints. It is enough to specify the `quantization="fp8"` argument. You can try out the PR like this:
-
-```python
-from vllm import LLM, SamplingParams
-
-prompts = [
-    "Hello, my name is",
-    "The president of the United States is",
-    "The capital of France is",
-    "The future of AI is",
-]
-sampling_params = SamplingParams(temperature=0.8, top_p=0.95)
-
-llm = LLM(model="mistralai/Mixtral-8x7B-Instruct-v0.1", tensor_parallel_size=2, quantization="fp8")
-
-outputs = llm.generate(prompts, sampling_params)
-
-# Print the outputs.
-for output in outputs:
-    prompt = output.prompt
-    generated_text = output.outputs[0].text
-    print(f"Prompt: {prompt!r}, Generated text: {generated_text!r}")
-```
-
-**Performance**: For this PR, the focus is on making the code clean (while still trying to get reasonable performance), there is a bunch of optimizations that we will submit as a follow up PR that significantly improve the performance (similar to the numbers in https://github.com/vllm-project/vllm/pull/3954). With this PR, the results are as follows:
-
-&lt;img width="725" alt="Screenshot 2024-04-21 at 1 31 50 PM" src="https://github.com/vllm-project/vllm/assets/113316/d8fe1118-07a0-4d4e-8530-37a77d465a03"&gt;
-
-
-**Accuracy**: The accuracy with this PR on MMLU on `mistralai/Mixtral-8x7B-v0.1` is as follows:
-
-```
-|      Groups      |Version|Filter|n-shot|Metric|Value |   |Stderr|
-|------------------|-------|------|-----:|------|-----:|---|-----:|
-|mmlu              |N/A    |none  |     0|acc   |0.7018|±  |0.0036|
-| - humanities     |N/A    |none  |     5|acc   |0.6472|±  |0.0065|
-| - other          |N/A    |none  |     5|acc   |0.7673|±  |0.0072|
-| - social_sciences|N/A    |none  |     5|acc   |0.8099|±  |0.0070|
-| - stem           |N/A    |none  |     5|acc   |0.6131|±  |0.0083|
-```
-this compares favorably with the fp16 results which are
-```
-|      Groups      |Version|Filter|n-shot|Metric|Value |   |Stderr|
-|------------------|-------|------|-----:|------|-----:|---|-----:|
-|mmlu              |N/A    |none  |     0|acc   |0.7020|±  |0.1313|
-| - humanities     |N/A    |none  |     5|acc   |0.6425|±  |0.1349|
-| - other          |N/A    |none  |     5|acc   |0.7744|±  |0.1038|
-| - social_sciences|N/A    |none  |     5|acc   |0.8131|±  |0.0695|
-| - stem           |N/A    |none  |     5|acc   |0.6108|±  |0.1383|
-```
-
-Happy hacking!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e8f425</div>
-                                        <div class="message">[Bugfix][Frontend] Raise exception when file-like chat template fails to be opened (#4292)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b7949c</div>
-                                        <div class="message">AQLM CUDA support (#3287)
-
-Co-authored-by: mgoin &lt;michael@neuralmagic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62b5166</div>
-                                        <div class="message">[CI] Add ccache for wheel builds job (#4281)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d86285a</div>
-                                        <div class="message">[Core][Logging] Add last frame information for better debugging (#4278)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d87f39e</div>
-                                        <div class="message">[Bugfix] Add init_cached_hf_modules to RayWorkerWrapper (#4286)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3c8180</div>
-                                        <div class="message">[Bugfix] Fixing max token error message for openai compatible server (#4016)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62b8aeb</div>
-                                        <div class="message">[Speculative decoding 7/9] Speculative decoding end-to-end correctness tests. (#3951)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#050f285</div>
-                                        <div class="message">[Core] Scheduling optimization 2 (#4280)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f2ea22</div>
-                                        <div class="message">[Core] Some simplification of WorkerWrapper changes (#4183)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#19 feat(authors): add myself</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">continuedev/amplified.dev</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 14:20:26 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 15:12:34 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
