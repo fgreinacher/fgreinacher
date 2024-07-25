@@ -392,7 +392,7 @@ This is not in scope for the GitLab plugin.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2024, 10:16:19 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2024, 11:13:58 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
