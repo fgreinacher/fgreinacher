@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1173" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1196" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1490 issue comments
+                            1491 issue comments
                         </div>
                     </section>
                     <section>
@@ -283,6 +283,158 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#12884 [Bugfix] Support missing tool parameters in mistral tokenizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by fgreinacher in <span class="repo">vllm-project/vllm</span></div>
+                                    <div class="comment">@DarkLight1337 This is very similar to https://github.com/vllm-project/vllm/pull/12859 and also provides a good start for testing the transformations :)</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">siemens/vllm</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/mistral-missing-tool-parameters</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c45d398</div>
+                                        <div class="message">[CI] Resolve transformers-neuronx version conflict (#12925)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#011e612</div>
+                                        <div class="message">[Misc] Log time consumption on weight downloading (#12926)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e18376</div>
+                                        <div class="message">[misc]  Add LoRA to benchmark_serving (#12898)
+
+Signed-off-by: Varun Sundar Rabindranath &lt;varun@neuralmagic.com&gt;
+Co-authored-by: Varun Sundar Rabindranath &lt;varun@neuralmagic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2880e21</div>
+                                        <div class="message">[Hardware][Intel-Gaudi] Enable long-contexts + LoRA support for Intel Gaudi (#12812)
+
+Signed-off-by: Sanju C Sudhakaran &lt;scsudhakaran@habana.ai&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#407b553</div>
+                                        <div class="message">[Build] Make pypi install work on CPU platform (#12874)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ea48fb</div>
+                                        <div class="message">[V1][Minor] Move cascade attn logic outside _prepare_inputs (#12943)
+
+Signed-off-by: Woosuk Kwon &lt;woosuk.kwon@berkeley.edu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e31498b</div>
+                                        <div class="message">[Misc] Add offline test for disaggregated prefill (#12418)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91dd8f7</div>
+                                        <div class="message">[bugfix] respect distributed_executor_backend in world_size=1 (#12934)
+
+Signed-off-by: youkaichao &lt;youkaichao@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d01f66b</div>
+                                        <div class="message">[Bugfix] Fix multi-round chat error when mistral tokenizer is used (#12859)
+
+Signed-off-by: Zifei Tong &lt;zifeitong@gmail.com&gt;
+Co-authored-by: Cyrus Leung &lt;cyrus.tl.leung@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc01223</div>
+                                        <div class="message">[Misc] Fix typo in the example file (#12896)
+
+Signed-off-by: Zhao Ke &lt;yingxiongraomingzk@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#306923d</div>
+                                        <div class="message">[Bugfix] Fix Qwen2_5_VLForConditionalGeneration packed_modules_mapping (#12905)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3243158</div>
+                                        <div class="message">[V1] Move KV block hashes from Request to KVCacheManager (#12922)
+
+Signed-off-by: Woosuk Kwon &lt;woosuk.kwon@berkeley.edu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b21f0f9</div>
+                                        <div class="message">[V1][Minor] Remove outdated comment (#12928)
+
+Signed-off-by: Woosuk Kwon &lt;woosuk.kwon@berkeley.edu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45cbc49</div>
+                                        <div class="message">[Bugfix] Fix disagg hang caused by the prefill and decode communication issues (#12723)
+
+Signed-off-by: Lu Fang &lt;lufang@fb.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#932c6b7</div>
+                                        <div class="message">[V1] LM Eval With Streaming Integration Tests (#11590)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eaa92d4</div>
+                                        <div class="message">[ROCm] [Feature] [Doc] [Dockerfile] [BugFix] Support Per-Token-Activation Per-Channel-Weight FP8 Quantization Inferencing (#12501)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0630d45</div>
+                                        <div class="message">[V1] Logprobs and prompt logprobs support (#9880)
+
+This PR is adding support for sample logprobs &amp; prompt logprobs to vLLM v1.
+
+New behavior:
+
+- During model execution, model runner computes sample logprobs (if user-provided logprobs setting is not None) and prompt logprobs (if user-provided prompt_logprobs setting is not None). For both sample and prompt logprobs, the engine core returns 3 vectors: token ids, token logprob values, token ranks. Ranks reflect tokens' 1-indexed positions in the vocabulary vector after sorting the vocabulary by log probability in descending order.
+- In scheduler.update_from_output(), sample and prompt logprobs are incorporated into the EngineCoreOutput data structure which is transferred to the engine client. If multiprocessing is enabled, then sample and prompt logprobs will be (de)serialized when the EngineCoreOutput data structure is (de)serialized.
+- During output processing, the LogprobsProcessor transforms the triplet of token ids, token logprobs values, and token ranks into the OpenAI-compatible List[Dict[token id,Logprob]] format (for sample and prompt logprobs respectively.)
+- Each Logprob instance (whether sample- or prompt-) consists of a token's log-probability, rank, and detokenized string representation. Note that logprob detokenization is handled by the LogprobsProcessor not the detokenizer.
+
+Signed-off-by: Andrew Feldman &lt;afeldman@neuralmagic.com&gt;
+Signed-off-by: Nick Hill &lt;nhill@redhat.com&gt;
+Signed-off-by: rshaw@neuralmagic.com &lt;rshaw@neuralmagic.com&gt;
+
+
+Co-authored-by: rshaw@neuralmagic.com &lt;rshaw@neuralmagic.com&gt;
+Co-authored-by: Nick Hill &lt;nhill@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#538fab9</div>
+                                        <div class="message">PR #12718 (#12718)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce26b16</div>
+                                        <div class="message">[Misc] Remove unnecessary detokenization in multimodal processing (#12868)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1918aa1</div>
+                                        <div class="message">[MISC][EASY] Break check file names into entry and args in the pre-commit hooks (#12880)
+
+Signed-off-by: Lu Fang &lt;lufang@fb.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
@@ -339,176 +491,12 @@ Signed-off-by: Florian Greinacher &lt;florian.greinacher@siemens.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">siemens/vllm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/mistral-missing-tool-parameters</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eba164e</div>
-                                        <div class="message">fix: support missing tool parameters in mistral tokenizer
-
-The Mistral schema is a bit more restrictive and does not accept
-functions without parameter dictionary. This is no problem with the
-OpenAI schema though, so the Mistral tokenizer should adapt the request
-before passing it on.
-
-Signed-off-by: Florian Greinacher &lt;florian.greinacher@siemens.com&gt;
-
-Signed-off-by: Florian Greinacher &lt;florian@greinacher.de&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 521 commits in
-                                        <span class="repo">siemens/vllm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/mistral-missing-tool-parameters</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#11d8a09</div>
-                                        <div class="message">[Misc] Optimize Qwen2-VL LoRA test (#11663)
-
-Signed-off-by: Jee Jee Li &lt;pandaleefree@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#365801f</div>
-                                        <div class="message">[VLM] Add max-count checking in data parser for single image models (#11661)
-
-Signed-off-by: DarkLight1337 &lt;tlleungac@connect.ust.hk&gt;
-Signed-off-by: Roger Wang &lt;ywang@roblox.com&gt;
-Co-authored-by: Roger Wang &lt;ywang@roblox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4db72e5</div>
-                                        <div class="message">[Bugfix][Refactor] Unify model management in frontend (#11660)
-
-Signed-off-by: Joe Runde &lt;Joseph.Runde@ibm.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c6f998</div>
-                                        <div class="message">[Benchmark] Add benchmark script for CPU offloading  (#11533)
-
-Signed-off-by: ApostaC &lt;yihua98@uchicago.edu&gt;
-Co-authored-by: KuntaiDu &lt;kuntai@uchicago.edu&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7c7c5e</div>
-                                        <div class="message">[V1][VLM] V1 support for selected single-image models. (#11632)
-
-Signed-off-by: Roger Wang &lt;ywang@roblox.com&gt;
-Signed-off-by: DarkLight1337 &lt;tlleungac@connect.ust.hk&gt;
-Signed-off-by: Isotr0py &lt;2037008807@qq.com&gt;
-Co-authored-by: DarkLight1337 &lt;tlleungac@connect.ust.hk&gt;
-Co-authored-by: Isotr0py &lt;2037008807@qq.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c3230d</div>
-                                        <div class="message">[V1] Simpify vision block hash for prefix caching by removing offset from hash (#11646)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c57188</div>
-                                        <div class="message">[Bugfix] Move the _touch(computed_blocks) call in the allocate_slots method to after the check for allocating new blocks. (#11565)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82c49d3</div>
-                                        <div class="message">[Misc][LoRA] Support Rank Stabilized LoRA (RSLoRA) (#6909)
-
-Signed-off-by: Jee Jee Li &lt;pandaleefree@gmail.com&gt;
-Co-authored-by: Jee Jee Li &lt;pandaleefree@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74fa1d1</div>
-                                        <div class="message">[Bugfix] Fix OpenAI parallel sampling when using xgrammar (#11637)
-
-Signed-off-by: mgoin &lt;michael@neuralmagic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a40bc</div>
-                                        <div class="message">[Model][LoRA]LoRA support added for MolmoForCausalLM (#11439)
-
-Signed-off-by: Matthias Vogler &lt;matthias.vogler@joesecurity.org&gt;
-Signed-off-by: Jee Jee Li &lt;pandaleefree@gmail.com&gt;
-Co-authored-by: Matthias Vogler &lt;matthias.vogler@joesecurity.org&gt;
-Co-authored-by: Jee Jee Li &lt;pandaleefree@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccb1aab</div>
-                                        <div class="message">[benchmark] Remove dependency for H100 benchmark step (#11572)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36e7670</div>
-                                        <div class="message">[Bugfix] Validate and concatenate image embeddings in MiniCPMVBaseModel (#11631)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5886aa4</div>
-                                        <div class="message">[V1] [6/N] API Server: Better Shutdown (#11586)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d9b672</div>
-                                        <div class="message">[VLM] Abstract out multi-modal data parsing in merged processor (#11620)
-
-Signed-off-by: DarkLight1337 &lt;tlleungac@connect.ust.hk&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b12e87f</div>
-                                        <div class="message">[platforms] enable platform plugins (#11602)
-
-Signed-off-by: youkaichao &lt;youkaichao@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5dbf854</div>
-                                        <div class="message">[CI/Build][CPU] Fix CPU CI by lazy importing triton FP8 kernels (#11618)
-
-Signed-off-by: jiang1.li &lt;jiang1.li@intel.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#970d6d0</div>
-                                        <div class="message">[Build][Kernel] Update CUTLASS to v3.6.0 (#11607)
-
-Signed-off-by: Tyler Michael Smith &lt;tyler@neuralmagic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#628ec6c</div>
-                                        <div class="message">[Docker] bump up neuron sdk v2.21 (#11593)
-
-Signed-off-by: Liangfu Chen &lt;liangfc@amazon.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3682e33</div>
-                                        <div class="message">[v1] fix compilation cache (#11598)
-
-Signed-off-by: youkaichao &lt;youkaichao@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0aa38d1</div>
-                                        <div class="message">Remove print statement in DeepseekScalingRotaryEmbedding (#11604)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2025, 09:18:25 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2025, 10:15:23 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
